@@ -1,11 +1,12 @@
 import React from 'react'
+import fotoCurriculo from '../Imagem/fotoCurriculo.jpg'
 
 function Header(props) {
     const { nome, ocupacao, resumo } = props.resposta
     return (
         <>
             <div className="perfil">
-                <img src="https://i.pravatar.cc/400" alt="Perfil" />
+                <img src={fotoCurriculo} alt="Perfil" />
             </div>
 
             <div className="biografia">
