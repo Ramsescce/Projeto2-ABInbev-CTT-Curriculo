@@ -44,7 +44,7 @@ function App() {
         periodo: 'Concluido-Dezembro 2020',
         empresa: 'UFRO Programador de Sistemas',
         local: 'Concluido-Novembro2020',
-        conteudo: 'Inglês Intermediários'
+        conteudo: 'Inglês Intermediário'
       },
 
     ]
